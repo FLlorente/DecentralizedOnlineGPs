@@ -16,6 +16,7 @@ If you use this repository in your work, please consider citing
       primaryClass={cs.LG},
       url={https://arxiv.org/abs/2502.05301}, 
 }
+```
 
 # Data
 To run the experiments in our paper, you have to download the `.mat` files from the [AdaRaker GitHub repository](https://github.com/N1cekiko/AdaRaker).
